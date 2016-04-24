@@ -1,0 +1,2 @@
+If you have ever studied number theory then you have probably come across this problem before.
+The Idea is find how many time 10 devides n!. Todo this we will apply the [De Polignac's formula](https://en.wikipedia.org/wiki/De_Polignac's_formula) to figure out how many 5's and 2's there are in the prime decomposition of n!. Since each even term in n! will contribute at least one 2 we know there will be less 5's in its prime decomposition hence the number of trailing zeros will be equal to the number of 5's in its prime factorization.  
