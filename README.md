@@ -9,19 +9,19 @@
 ## math
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
-2    | [trailing zeros](http://www.lintcode.com/en/problem/trailing-zeros/) | [C++](.C++/Trailing Zeros.cpp) | _O(log n)_       | _O(1)_          | Easy         | [Note](.Notes/Trailing Zeros.md)
+2    | [trailing zeros](http://www.lintcode.com/en/problem/trailing-zeros/) | [C++](C++/Trailing Zeros.cpp) | _O(log n)_       | _O(1)_          | Easy         | [Note](.Notes/Trailing Zeros.md)
 
 
 
 ## sort
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
-5    | [Kth Largest Element](http://www.lintcode.com/en/problem/kth-largest-element/) | [C++](.C++/Kth Largest Element.cpp) | _O(nlog n)_ / _O(n + klog n)_ / _O(n)_       | _O(1)_          | Easy         | [Note](.Notes/Kth Largest Element.md)
+5    | [Kth Largest Element](http://www.lintcode.com/en/problem/kth-largest-element/) | [C++](C++/Kth Largest Element.cpp) | _O(nlog n)_ / _O(n + klog n)_ / _O(n)_       | _O(1)_          | Easy         | [Note](Notes/Kth Largest Element.md)
 
 
 
 ## trees
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
-201  | [Segment Tree Build](http://www.lintcode.com/en/problem/segment-tree-build/) | [C++](.C++/Segment Tree Build.cpp) | _O(b-a)_ | _O(1)_ | Medium | 
+201  | [Segment Tree Build](http://www.lintcode.com/en/problem/segment-tree-build/) | [C++](C++/Segment Tree Build.cpp) | _O(b-a)_ | _O(1)_ | Medium | 
 
