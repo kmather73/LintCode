@@ -11,10 +11,12 @@
 * [Recursion](https://github.com/kmather73/LintCode#recursion)
 
 
-## arrays
+## Arrays
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
 6    | [Merge Sorted Array II](http://www.lintcode.com/en/problem/merge-sorted-array-ii/) | [C++](C++/Merge Sorted Array II.cpp) | _O(n+m)_ | _O(1)_ | Easy |
+130  | [Heapify](http://www.lintcode.com/en/problem/heapify/) | [C++](C++/Heapify.cpp) | _O(n)_ | _O(1)_ | Medium |
+206  | [Interval Sum](http://www.lintcode.com/en/problem/interval-sum/) | [C++](C++/Interval Sum.cpp) | _O(N + n)_ | _O(n)_ | Medium | 
 
 
 ## Dynamic Programming
@@ -24,26 +26,27 @@
 515  | [Paint House](http://www.lintcode.com/en/problem/paint-house/) | [C++](C++/Paint House.cpp) | _O(n)_ | _O(1)_ | Medium |
 516  | [Paint House II](http://www.lintcode.com/en/problem/paint-house-ii/) | [C++](C++/Paint House II.cpp) | _O(n*k)_ | _O(k)_ | Hard | [Note](Notes/Paint House II.md)
 
-## math
+## Math
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
 2    | [trailing zeros](http://www.lintcode.com/en/problem/trailing-zeros/) | [C++](C++/Trailing Zeros.cpp) | _O(log n)_       | _O(1)_          | Easy         | [Note](Notes/Trailing Zeros.md)
-445  | [Cosine Similarity](http://www.lintcode.com/en/problem/cosine-similarity/) | [C++](C++/Cosine Similarity) | _(n)_ | _O(1)_ | Easy |
+9    | [Fizz Buzz](http://www.lintcode.com/en/problem/fizz-buzz/) |[C++](C++/Fizz Buzz.cpp) | _O(n)_ | _O(1)_ | 
+445  | [Cosine Similarity](http://www.lintcode.com/en/problem/cosine-similarity/) | [C++](C++/Cosine Similarity) | _O(n)_ | _O(1)_ | Easy |
 
 
 
-## sort
+## Sorting
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
 5    | [Kth Largest Element](http://www.lintcode.com/en/problem/kth-largest-element/) | [C++](C++/Kth Largest Element.cpp) | _O(nlog n)_ / _O(n + klog n)_ / _O(n)_       | _O(1)_          | Easy         | [Note](Notes/Kth Largest Element.md)
 
 
-## string
+## Strings
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
 524  | [Left Pad](http://www.lintcode.com/en/problem/left-pad/) | [C++](C++/Left Pad.cpp) | _O(n)_ | _O(1)_ | Easy |
 
-## trees
+## Trees
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
 87   | [Remove Node in Binary Search Tree](http://www.lintcode.com/en/problem/remove-node-in-binary-search-tree/) | [C++](C++/Remove Node in Binary Search Tree.cpp) | _O(h)_ | _O(1)_ | Hard |
@@ -56,7 +59,7 @@
 ## Recursion
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
-371  | [Print Numbers by Recursion](http://www.lintcode.com/en/problem/print-numbers-by-recursion/) | [C++](C++/Print Numbers by Recursion.cpp) | _O(N)_ | _O(log N)_ | Medium | 
+371  | [Print Numbers by Recursion](http://www.lintcode.com/en/problem/print-numbers-by-recursion/) | [C++](C++/Print Numbers by Recursion.cpp) | _O(N)_ | _O(N)_ | Medium | 
 
 
 
