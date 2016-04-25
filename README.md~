@@ -7,6 +7,9 @@
 * [Sort](https://github.com/kmather73/LintCode#sort)
 * [Strings](https://github.com/kmather73/LintCode#strings)
 * [Trees](https://github.com/kmather73/LintCode#trees)
+* [Dynamic Programming](https://github.com/kmather73/LintCode#dynamic-programming)
+* [Recursion](https://github.com/kmather73/LintCode#recursion)
+
 
 ## arrays
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
@@ -14,16 +17,18 @@
 6    | [Merge Sorted Array II](http://www.lintcode.com/en/problem/merge-sorted-array-ii/) | [C++](C++/Merge Sorted Array II.cpp) | _O(n+m)_ | _O(1)_ | Easy |
 
 
-##dynamic progaming 
+## Dynamic Programming
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
-514  | [Paint Fence](http://www.lintcode.com/en/problem/paint-fence/) | [C++](C++/Paint Fence.cpp) | _O(n)_ | _O(1)_ | [Note](Notes/Paint Fence.md)
-
+514  | [Paint Fence](http://www.lintcode.com/en/problem/paint-fence/) | [C++](C++/Paint Fence.cpp) | _O(n)_ | _O(1)_ | Easy | [Note](Notes/Paint Fence.md)
+515  | [Paint House](http://www.lintcode.com/en/problem/paint-house/) | [C++](C++/Paint House.cpp) | _O(n)_ | _O(1)_ | Medium |
+516  | [Paint House II](http://www.lintcode.com/en/problem/paint-house-ii/) | [C++](C++/Paint House II.cpp) | _O(n*k)_ | _O(k)_ | Hard | [Note](Notes/Paint House II.md)
 
 ## math
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
 2    | [trailing zeros](http://www.lintcode.com/en/problem/trailing-zeros/) | [C++](C++/Trailing Zeros.cpp) | _O(log n)_       | _O(1)_          | Easy         | [Note](Notes/Trailing Zeros.md)
+445  | [Cosine Similarity](http://www.lintcode.com/en/problem/cosine-similarity/) | [C++](C++/Cosine Similarity) | _(n)_ | _O(1)_ | Easy |
 
 
 
@@ -46,4 +51,14 @@
 201  | [Segment Tree Build](http://www.lintcode.com/en/problem/segment-tree-build/) | [C++](C++/Segment Tree Build.cpp) | _O(b-a)_ | _O(1)_ | Medium | 
 202  | [Segment Tree Query](http://www.lintcode.com/en/problem/segment-tree-query/) | [C++](C++/Segment Tree Query.cpp) | _O(log b-a )_ | _O(1)_ | Medium |
 439  | [Segment Tree Build II](http://www.lintcode.com/en/problem/segment-tree-build-ii/) | [C++](C++/Segment Tree Build II.cpp) | _O(n)_ | _O(1)_ | Medium | 
+
+
+## Recursion
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
+-----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
+371  | [Print Numbers by Recursion](http://www.lintcode.com/en/problem/print-numbers-by-recursion/) | [C++](C++/Print Numbers by Recursion.cpp) | _O(N)_ | _O( log N)_ | Medium | 
+
+
+
+
 

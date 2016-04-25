@@ -1,0 +1,57 @@
+class Solution {
+public:
+    /**
+     * @param costs n x k cost matrix
+     * @return an integer, the minimum cost to paint all houses
+     */
+    int minCostII(vector<vector<int>>& costs) {
+        if(costs.size() == 0)
+            return 0;
+
+        int n = costs.size();
+        int k = costs[0].size();
+        std::vector<std::vector<int>> DP(2, std::vector<int>(k));
+        
+        
+        int first = 0;
+        int second = 1;        
+        for(int i = 0; i < k; ++i) {
+            DP[0][i] = costs[0][i];
+            
+            if(DP[0][i] < DP[0][first]) {
+                second = first;
+                first = i;
+            } else if (DP[0][i] < DP[0][second])
+                second = i;
+        }
+
+
+        for(int i = 1; i < n; ++i) {
+            
+            int tempFirst = 0;
+            int tempSecond = 1;
+            DP[ i%2 ][0] = INT_MAX;
+            DP[ i%2 ][1] = INT_MAX;
+            
+            for(int j = 0; j < k; ++j) {
+                
+                if (j != first)
+                    DP[ i%2 ][j] = DP[ (i-1)%2 ][first] + costs[i][j];
+                else 
+                    DP[ i%2 ][j] = DP[ (i-1)%2 ][second] + costs[i][j];
+                
+                
+                if ( DP[ i%2 ][j] < DP[ i%2 ][tempFirst] ) {
+                    tempSecond = tempFirst;
+                    tempFirst = j;
+                } else if (DP[ i%2 ][j] < DP[ i%2 ][tempSecond] && j != tempFirst) 
+                    tempSecond = j;
+            }
+            
+            first = tempFirst;
+            second = tempSecond;
+        }
+        
+        return DP[ (n-1)%2 ][first];
+    }
+};
