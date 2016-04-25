@@ -38,7 +38,7 @@
 ## Sorting
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
-5    | [Kth Largest Element](http://www.lintcode.com/en/problem/kth-largest-element/) | [C++](C++/Kth Largest Element.cpp) | _O(nlog n)_ / _O(n + klog n)_ / _O(n)_       | _O(1)_          | Easy         | [Note](Notes/Kth Largest Element.md)
+5    | [Kth Largest Element](http://www.lintcode.com/en/problem/kth-largest-element/) | [C++](C++/Kth Largest Element.cpp) | _O(nlog n)_ / _O(n + klog n)_ / _O(n)_ | _O(1)_ | Easy | [Note](Notes/Kth Largest Element.md)
 
 
 ## Strings
@@ -54,6 +54,7 @@
 201  | [Segment Tree Build](http://www.lintcode.com/en/problem/segment-tree-build/) | [C++](C++/Segment Tree Build.cpp) | _O(b-a)_ | _O(1)_ | Medium | 
 202  | [Segment Tree Query](http://www.lintcode.com/en/problem/segment-tree-query/) | [C++](C++/Segment Tree Query.cpp) | _O(log b-a )_ | _O(1)_ | Medium |
 439  | [Segment Tree Build II](http://www.lintcode.com/en/problem/segment-tree-build-ii/) | [C++](C++/Segment Tree Build II.cpp) | _O(n)_ | _O(1)_ | Medium | 
+442  | [Implement Trie](http://www.lintcode.com/en/problem/implement-trie/#) | [C++](C++/Implement Trie) | NA | _O(n*S)_ | Medium |
 
 
 ## Recursion
