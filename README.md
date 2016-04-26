@@ -39,11 +39,12 @@
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
 5    | [Kth Largest Element](http://www.lintcode.com/en/problem/kth-largest-element/) | [C++](C++/Kth Largest Element.cpp) | _O(nlog n)_ / _O(n + klog n)_ / _O(n)_ | _O(1)_ | Easy | [Note](Notes/Kth Largest Element.md)
-
+532  | [Reverse Pairs](http://www.lintcode.com/en/problem/reverse-pairs/) |[C++](C++/Reverse Pairs.cpp) | _O(n log n)_ | _O(n)_ | Medium |
 
 ## Strings
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
+212  | [Space Replacement](http://www.lintcode.com/en/problem/space-replacement/) | [C++](C++/Space Replacement) | _O(n)_ | _O(n)_ | Easy |
 524  | [Left Pad](http://www.lintcode.com/en/problem/left-pad/) | [C++](C++/Left Pad.cpp) | _O(n)_ | _O(1)_ | Easy |
 
 ## Trees
