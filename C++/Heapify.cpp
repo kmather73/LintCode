@@ -8,10 +8,10 @@ public:
         int n = A.size()/2;
         
         for(int i = n; i >= 0; --i)
-            maxHeapify(A,i);
+            minHeapify(A,i);
     }
     
-    void maxHeapify(std::vector<int> &A, int i) {
+    void minHeapify(std::vector<int> &A, int i) {
         int left = 2*i + 1;
         int right = 2*i + 2;
         int n = A.size();
@@ -29,7 +29,7 @@ public:
             int temp = A[i];
             A[i] = A[min];
             A[min] = temp;
-            maxHeapify( A, min);
+            minHeapify( A, min);
         }
     }
 };
