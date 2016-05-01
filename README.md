@@ -1,4 +1,4 @@
-# [LintCode](www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/language-C++%2014-orange.svg)  ![Progress](https://img.shields.io/badge/progress-6%20%2F%20577-ff69b4.svg)
+# [LintCode](www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/language-C++%2014-orange.svg)  ![Progress](https://img.shields.io/badge/progress-25%20%2F%20278-ff69b4.svg)
 
 
 ## Algorithms
@@ -22,6 +22,7 @@
 ## Dynamic Programming
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
+392  | [House Robber](http://www.lintcode.com/en/problem/house-robber/) | [C++](C++/House Robber.cpp) | _O(n)_ | _O(1)_ | Easy | 
 437  | [Copy Books](http://www.lintcode.com/en/problem/copy-books/) | [C++](C++/Copy Books.cpp) | _O(n^2 * k)_ | _O(n*k)_ | Hard |
 514  | [Paint Fence](http://www.lintcode.com/en/problem/paint-fence/) | [C++](C++/Paint Fence.cpp) | _O(n)_ | _O(1)_ | Easy | [Note](Notes/Paint Fence.md)
 515  | [Paint House](http://www.lintcode.com/en/problem/paint-house/) | [C++](C++/Paint House.cpp) | _O(n)_ | _O(1)_ | Medium |
