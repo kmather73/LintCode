@@ -32,8 +32,9 @@
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
 2    | [trailing zeros](http://www.lintcode.com/en/problem/trailing-zeros/) | [C++](C++/Trailing Zeros.cpp) | _O(log n)_       | _O(1)_          | Easy         | [Note](Notes/Trailing Zeros.md)
-9    | [Fizz Buzz](http://www.lintcode.com/en/problem/fizz-buzz/) |[C++](C++/Fizz Buzz.cpp) | _O(n)_ | _O(1)_ | 
+9    | [Fizz Buzz](http://www.lintcode.com/en/problem/fizz-buzz/) |[C++](C++/Fizz Buzz.cpp) | _O(n)_ | _O(1)_ | Easy |
 445  | [Cosine Similarity](http://www.lintcode.com/en/problem/cosine-similarity/) | [C++](C++/Cosine Similarity) | _O(n)_ | _O(1)_ | Easy |
+513  | [Perfect Squares](http://www.lintcode.com/en/problem/perfect-squares/) | [C++](C++/Perfect Squares.cpp) | _O(\sqrt{n})_ | _O(1)_ | Medium | 
 
 
 
