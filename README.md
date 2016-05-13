@@ -50,6 +50,11 @@
 212  | [Space Replacement](http://www.lintcode.com/en/problem/space-replacement/) | [C++](C++/Space Replacement) | _O(n)_ | _O(n)_ | Easy |
 524  | [Left Pad](http://www.lintcode.com/en/problem/left-pad/) | [C++](C++/Left Pad.cpp) | _O(n)_ | _O(1)_ | Easy |
 
+## LinkedLists
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
+-----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
+511  | [Swap Two Nodes in Linked List](http://www.lintcode.com/en/problem/swap-two-nodes-in-linked-list/) | [C++](C++/Swap Two Nodes in Linked List.cpp) | _O(n)_ | _O(1)_ | Medium |
+
 ## Trees
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
