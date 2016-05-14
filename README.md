@@ -62,8 +62,10 @@
 175  | [Invert Binary Tree](http://www.lintcode.com/en/problem/invert-binary-tree/) | [C++](C++/Invert Binary Tree.cpp) | _O(n)_ | _O(1)_ | Easy |
 201  | [Segment Tree Build](http://www.lintcode.com/en/problem/segment-tree-build/) | [C++](C++/Segment Tree Build.cpp) | _O(b-a)_ | _O(1)_ | Medium | 
 202  | [Segment Tree Query](http://www.lintcode.com/en/problem/segment-tree-query/) | [C++](C++/Segment Tree Query.cpp) | _O(log b-a )_ | _O(1)_ | Medium |
+362  | [Sliding Window Maximum](http://www.lintcode.com/en/problem/sliding-window-maximum/) | [C++](C++/Sliding Window Maximum.cpp) | _O(nlog k)_ | _O(k)_ | Super | [Note](Notes/Sliding Window Maximum.md)
 439  | [Segment Tree Build II](http://www.lintcode.com/en/problem/segment-tree-build-ii/) | [C++](C++/Segment Tree Build II.cpp) | _O(n)_ | _O(1)_ | Medium | 
 442  | [Implement Trie](http://www.lintcode.com/en/problem/implement-trie/#) | [C++](C++/Implement Trie) | NA | _O(n*S)_ | Medium |
+
 
 
 ## Recursion
