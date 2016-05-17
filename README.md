@@ -24,6 +24,7 @@
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
 392  | [House Robber](http://www.lintcode.com/en/problem/house-robber/) | [C++](C++/House Robber.cpp) | _O(n)_ | _O(1)_ | Easy | 
 437  | [Copy Books](http://www.lintcode.com/en/problem/copy-books/) | [C++](C++/Copy Books.cpp) | _O(n^2 * k)_ | _O(n*k)_ | Hard |
+512  | [Decode Ways](http://www.lintcode.com/en/problem/decode-ways/) | [C++](C++/Decode Ways.cpp) | _O(n)_ | _O(n)_ | Medium |
 514  | [Paint Fence](http://www.lintcode.com/en/problem/paint-fence/) | [C++](C++/Paint Fence.cpp) | _O(n)_ | _O(1)_ | Easy | [Note](Notes/Paint Fence.md)
 515  | [Paint House](http://www.lintcode.com/en/problem/paint-house/) | [C++](C++/Paint House.cpp) | _O(n)_ | _O(1)_ | Medium |
 516  | [Paint House II](http://www.lintcode.com/en/problem/paint-house-ii/) | [C++](C++/Paint House II.cpp) | _O(n*k)_ | _O(k)_ | Hard | [Note](Notes/Paint House II.md)
