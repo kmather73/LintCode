@@ -9,6 +9,7 @@
 * [Trees](https://github.com/kmather73/LintCode#trees)
 * [Dynamic Programming](https://github.com/kmather73/LintCode#dynamic-programming)
 * [Recursion](https://github.com/kmather73/LintCode#recursion)
+* [System Design](https://github.com/kmather73/LintCode#system-design)
 
 
 ## Arrays
@@ -75,6 +76,10 @@
 371  | [Print Numbers by Recursion](http://www.lintcode.com/en/problem/print-numbers-by-recursion/) | [C++](C++/Print Numbers by Recursion.cpp) | _O(N)_ | _O(N)_ | Medium | 
 
 
+## System Design
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
+-----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
+501  | [Mini Twitter](http://www.lintcode.com/en/problem/mini-twitter/) | [C++](c++/Mini Twitter.cpp) | _O(1)_ / _O(log F)_ | _O(U+F+T)_ | Medium | 
 
 
 
