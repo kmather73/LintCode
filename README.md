@@ -1,4 +1,4 @@
-# [LintCode](www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/language-C++%2014-orange.svg)  ![Progress](https://img.shields.io/badge/progress-25%20%2F%20278-ff69b4.svg)
+# [LintCode](www.lintcode.com/en/problem/) ![Language](https://img.shields.io/badge/language-C++%2014-orange.svg)  ![Progress](https://img.shields.io/badge/progress-31%20%2F%20278-ff69b4.svg)
 
 
 ## Algorithms
@@ -34,7 +34,9 @@
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
 2    | [trailing zeros](http://www.lintcode.com/en/problem/trailing-zeros/) | [C++](C++/Trailing Zeros.cpp) | _O(log n)_       | _O(1)_          | Easy         | [Note](Notes/Trailing Zeros.md)
-9    | [Fizz Buzz](http://www.lintcode.com/en/problem/fizz-buzz/) |[C++](C++/Fizz Buzz.cpp) | _O(n)_ | _O(1)_ | Easy |
+9    | [Fizz Buzz](http://www.lintcode.com/en/problem/fizz-buzz/) | [C++](C++/Fizz Buzz.cpp) | _O(n)_ | _O(1)_ | Easy |
+196  | [Find the Missing Number](http://www.lintcode.com/en/problem/find-the-missing-number/) | [C++](C++/Find the Missing Number.cpp) | _O(n)_ | _O(1)_ | Medium |
+428  | [Pow(x, n)](http://www.lintcode.com/en/problem/powx-n/) | [C++](C++/Pow(x, n).cpp) | _O(log n)_ | _O(log n)_ | Medium |
 445  | [Cosine Similarity](http://www.lintcode.com/en/problem/cosine-similarity/) | [C++](C++/Cosine Similarity) | _O(n)_ | _O(1)_ | Easy |
 513  | [Perfect Squares](http://www.lintcode.com/en/problem/perfect-squares/) | [C++](C++/Perfect Squares.cpp) | _O(\sqrt{n})_ | _O(1)_ | Medium | 
 
@@ -63,7 +65,7 @@
 87   | [Remove Node in Binary Search Tree](http://www.lintcode.com/en/problem/remove-node-in-binary-search-tree/) | [C++](C++/Remove Node in Binary Search Tree.cpp) | _O(h)_ | _O(1)_ | Hard |
 175  | [Invert Binary Tree](http://www.lintcode.com/en/problem/invert-binary-tree/) | [C++](C++/Invert Binary Tree.cpp) | _O(n)_ | _O(1)_ | Easy |
 201  | [Segment Tree Build](http://www.lintcode.com/en/problem/segment-tree-build/) | [C++](C++/Segment Tree Build.cpp) | _O(b-a)_ | _O(1)_ | Medium | 
-202  | [Segment Tree Query](http://www.lintcode.com/en/problem/segment-tree-query/) | [C++](C++/Segment Tree Query.cpp) | _O(log b-a )_ | _O(1)_ | Medium |
+202  | [Segment Tree Query](http://www.lintcode.com/en/problem/segment-tree-query/) | [C++](C++/Segment Tree Query.cpp) | _O(log b-a)_ | _O(1)_ | Medium |
 362  | [Sliding Window Maximum](http://www.lintcode.com/en/problem/sliding-window-maximum/) | [C++](C++/Sliding Window Maximum.cpp) | _O(nlog k)_ | _O(k)_ | Super | [Note](Notes/Sliding Window Maximum.md)
 439  | [Segment Tree Build II](http://www.lintcode.com/en/problem/segment-tree-build-ii/) | [C++](C++/Segment Tree Build II.cpp) | _O(n)_ | _O(1)_ | Medium | 
 442  | [Implement Trie](http://www.lintcode.com/en/problem/implement-trie/#) | [C++](C++/Implement Trie) | NA | _O(n*S)_ | Medium |

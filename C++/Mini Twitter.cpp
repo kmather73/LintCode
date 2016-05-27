@@ -56,7 +56,7 @@ public:
             std::tie( currTime, begin, end) = top;
             maxHeap.pop();
             
-            auto next = begin+1;
+            revIt next = begin+1;
             if(next != end) {
                 maxHeap.push( make_tuple( next->first, next, end) );
             }
