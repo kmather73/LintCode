@@ -18,6 +18,7 @@
 6    | [Merge Sorted Array II](http://www.lintcode.com/en/problem/merge-sorted-array-ii/) | [C++](C++/Merge Sorted Array II.cpp) | _O(n+m)_ | _O(1)_ | Easy |
 130  | [Heapify](http://www.lintcode.com/en/problem/heapify/) | [C++](C++/Heapify.cpp) | _O(n)_ | _O(1)_ | Medium |
 206  | [Interval Sum](http://www.lintcode.com/en/problem/interval-sum/) | [C++](C++/Interval Sum.cpp) | _O(N + n)_ | _O(n)_ | Medium | 
+539  | [Move Zeroes](http://www.lintcode.com/en/problem/move-zeroes/) | [C++](C++/Move Zeroes.cpp) | _O(n)_ | _O(1)_ | Easy |
 
 
 ## Dynamic Programming
@@ -69,6 +70,7 @@
 362  | [Sliding Window Maximum](http://www.lintcode.com/en/problem/sliding-window-maximum/) | [C++](C++/Sliding Window Maximum.cpp) | _O(nlog k)_ | _O(k)_ | Super | [Note](Notes/Sliding Window Maximum.md)
 439  | [Segment Tree Build II](http://www.lintcode.com/en/problem/segment-tree-build-ii/) | [C++](C++/Segment Tree Build II.cpp) | _O(n)_ | _O(1)_ | Medium | 
 442  | [Implement Trie](http://www.lintcode.com/en/problem/implement-trie/#) | [C++](C++/Implement Trie) | NA | _O(n*S)_ | Medium |
+469 | [Identical Binary Tree](http://www.lintcode.com/en/problem/identical-binary-tree/) | [C++](C++/Identical Binary Tree.cpp) | _O(n)_ | _O(h)_ | Easy |
 
 
 
