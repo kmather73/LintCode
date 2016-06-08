@@ -21,6 +21,7 @@
 206  | [Interval Sum](http://www.lintcode.com/en/problem/interval-sum/) | [C++](C++/Interval Sum.cpp) | _O(N + n)_ | _O(n)_ | Medium | 
 436  | [Maximal Square](http://www.lintcode.com/en/problem/maximal-square/) | [C++](C++/Maximal Square.cpp) | _O(n^3)_/ Average _O(n^2)_ | _O(1)_ | Medium |
 539  | [Move Zeroes](http://www.lintcode.com/en/problem/move-zeroes/) | [C++](C++/Move Zeroes.cpp) | _O(n)_ | _O(1)_ | Easy |
+433  | [Number of Islands](http://www.lintcode.com/en/problem/number-of-islands/) | [C++](C++/Number of Islands.cpp) | _O(n^2)_ | _O(n^2)_ | Easy |
 
 
 ## Dynamic Programming
