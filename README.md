@@ -9,6 +9,7 @@
 * [Trees](https://github.com/kmather73/LintCode#trees)
 * [Dynamic Programming](https://github.com/kmather73/LintCode#dynamic-programming)
 * [Recursion](https://github.com/kmather73/LintCode#recursion)
+* [Stack](https://github.com/kmather73/LintCode#stack)
 * [System Design](https://github.com/kmather73/LintCode#system-design)
 
 
@@ -18,6 +19,7 @@
 6    | [Merge Sorted Array II](http://www.lintcode.com/en/problem/merge-sorted-array-ii/) | [C++](C++/Merge Sorted Array II.cpp) | _O(n+m)_ | _O(1)_ | Easy |
 130  | [Heapify](http://www.lintcode.com/en/problem/heapify/) | [C++](C++/Heapify.cpp) | _O(n)_ | _O(1)_ | Medium |
 206  | [Interval Sum](http://www.lintcode.com/en/problem/interval-sum/) | [C++](C++/Interval Sum.cpp) | _O(N + n)_ | _O(n)_ | Medium | 
+436  | [Maximal Square](http://www.lintcode.com/en/problem/maximal-square/) | [C++](C++/Maximal Square.cpp) | _O(n^3)_/ Average _O(n^2)_ | _O(1)_ | Medium |
 539  | [Move Zeroes](http://www.lintcode.com/en/problem/move-zeroes/) | [C++](C++/Move Zeroes.cpp) | _O(n)_ | _O(1)_ | Easy |
 
 
@@ -70,7 +72,7 @@
 362  | [Sliding Window Maximum](http://www.lintcode.com/en/problem/sliding-window-maximum/) | [C++](C++/Sliding Window Maximum.cpp) | _O(nlog k)_ | _O(k)_ | Super | [Note](Notes/Sliding Window Maximum.md)
 439  | [Segment Tree Build II](http://www.lintcode.com/en/problem/segment-tree-build-ii/) | [C++](C++/Segment Tree Build II.cpp) | _O(n)_ | _O(1)_ | Medium | 
 442  | [Implement Trie](http://www.lintcode.com/en/problem/implement-trie/#) | [C++](C++/Implement Trie) | NA | _O(n*S)_ | Medium |
-469 | [Identical Binary Tree](http://www.lintcode.com/en/problem/identical-binary-tree/) | [C++](C++/Identical Binary Tree.cpp) | _O(n)_ | _O(h)_ | Easy |
+469  | [Identical Binary Tree](http://www.lintcode.com/en/problem/identical-binary-tree/) | [C++](C++/Identical Binary Tree.cpp) | _O(n)_ | _O(h)_ | Easy |
 
 
 
@@ -79,6 +81,10 @@
 -----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
 371  | [Print Numbers by Recursion](http://www.lintcode.com/en/problem/print-numbers-by-recursion/) | [C++](C++/Print Numbers by Recursion.cpp) | _O(N)_ | _O(N)_ | Medium | 
 
+## Stack
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
+-----|---------------- | --------------- | --------------- | --------------- | ------------- | -----
+423  | [Valid Parentheses](http://www.lintcode.com/en/problem/valid-parentheses/) | [C++](C++/Valid Parentheses.cpp) | _O(n)_ | _O(n)_ | Easy |
 
 ## System Design
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Notes
